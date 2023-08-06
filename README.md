@@ -12,15 +12,15 @@ O hub foi especialmente projetado para atender às necessidades do setor comerci
 ![image](https://github.com/yuremartins/HUB-PowerBI/blob/main/Dashboard%20-%20Hub/02%20-%20P%C3%A1gina%20Inicial.png?raw=true)
 
 
-- Painéis de BI (Business Intelligence): O hub apresentará painéis interativos com visualizações claras e intuitivas, permitindo uma análise avançada dos dados comerciais.
+- `Painéis de BI.`  
 
-- Relatórios em Excel: Além dos painéis de BI, serão disponibilizados relatórios em formato Excel para aprofundar a análise e oferecer uma visão detalhada dos dados.
+- `Relatórios em Excel.`
 
-- Apresentações de Resultados: Com a possibilidade de criação de apresentações, o hub torna mais fácil compartilhar resultados e insights com gerentes, diretores e executivos.
+- `Apresentações de Resultados.`
 
 ## Dashboard
 
-O dashboard foi desenvolvido no Figma, proporcionando uma experiência de visualização personalizada. Sua estrutura flexível permite a inserção de imagens dos relatórios, tornando-o altamente adaptável às necessidades específicas de análise.
+O design do dashboard foi desenvolvido no Figma, proporcionando uma experiência de visualização personalizada. Sua estrutura flexível permite a inserção de imagens dos relatórios, tornando-o altamente adaptável às necessidades específicas de análise.
 
 [Figma](https://www.figma.com/file/UlN4kkIzipjf4ciJbyelXM/Dashboard---Hub?type=design&mode=design&t=AO54jQWivPMQnyMV-0)
 
