@@ -18,6 +18,18 @@ O hub foi especialmente projetado para atender às necessidades do setor comerci
 
 - `Apresentações de Resultados.`
 
+## Instruções para Inserção de URL no Power BI
+
+![image](https://github.com/yuremartins/HUB-PowerBI/blob/main/Dashboard%20-%20Hub/PrtSc.png?raw=true)
+
+- Selecione uma forma que servirá como botão ou elemento visual para o link.
+- Clique com o botão direito do mouse na forma selecionada e escolha a opção "Formatar".
+- No painel de formatação, selecione a opção "Ações".
+- No campo "Tipo de ação", escolha "URL da Web".
+- Agora, publique o relatório na web e copie o link de acesso.
+- Cole o link na opção "URL da Web" dentro das configurações de ação da forma selecionada.
+- Salve o relatório para que as alterações sejam aplicadas.
+
 ## Dashboard
 
 O design do dashboard foi desenvolvido no Figma, proporcionando uma experiência de visualização personalizada. Sua estrutura flexível permite a inserção de imagens dos relatórios, tornando-o altamente adaptável às necessidades específicas de análise.
