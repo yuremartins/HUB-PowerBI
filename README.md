@@ -23,3 +23,9 @@ O hub foi especialmente projetado para atender às necessidades do setor comerci
 O dashboard foi desenvolvido no Figma, proporcionando uma experiência de visualização personalizada. Sua estrutura flexível permite a inserção de imagens dos relatórios, tornando-o altamente adaptável às necessidades específicas de análise.
 
 [Figma](https://www.figma.com/file/UlN4kkIzipjf4ciJbyelXM/Dashboard---Hub?type=design&mode=design&t=AO54jQWivPMQnyMV-0)
+
+## Autores
+
+| [<img src="https://avatars.githubusercontent.com/u/120994376?v=4" width=115><br><sub>Yure Martins</sub>](https://github.com/yuremartins) |
+| :---: | 
+
