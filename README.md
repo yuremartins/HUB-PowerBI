@@ -17,3 +17,9 @@ O hub foi especialmente projetado para atender às necessidades do setor comerci
 - Relatórios em Excel: Além dos painéis de BI, serão disponibilizados relatórios em formato Excel para aprofundar a análise e oferecer uma visão detalhada dos dados.
 
 - Apresentações de Resultados: Com a possibilidade de criação de apresentações, o hub torna mais fácil compartilhar resultados e insights com gerentes, diretores e executivos.
+
+## Dashboard
+
+O dashboard foi desenvolvido no Figma, proporcionando uma experiência de visualização personalizada. Sua estrutura flexível permite a inserção de imagens dos relatórios, tornando-o altamente adaptável às necessidades específicas de análise.
+
+[Figma](https://www.figma.com/file/UlN4kkIzipjf4ciJbyelXM/Dashboard---Hub?type=design&mode=design&t=AO54jQWivPMQnyMV-0)
