@@ -36,6 +36,8 @@ O design do dashboard foi desenvolvido no Figma, proporcionando uma experiência
 
 [Figma](https://www.figma.com/file/UlN4kkIzipjf4ciJbyelXM/Dashboard---Hub?type=design&mode=design&t=AO54jQWivPMQnyMV-0)
 
+> Referência: [Letícia Smirelli](https://www.linkedin.com/in/leticiasmirelli/)
+
 ## Autores
 
 | [<img src="https://avatars.githubusercontent.com/u/120994376?v=4" width=115><br><sub>Yure Martins</sub>](https://github.com/yuremartins) |
