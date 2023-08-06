@@ -1,7 +1,7 @@
 # HUB-PowerBI
 Repositório para o desenvolvimento de um Hub no Power BI.
 
-O hub foi especialmente projetado para atender às necessidades do setor comercial, visando atrair os stakeholders-chave a consumirem os dados de forma ativa e orientada a insights. A centralização das informações contribui para a tomada de decisões mais informadas e estratégicas em todos os níveis da organização.
+O Hub no Power BI é a resposta personalizada para as necessidades do setor comercial, avançando em direção a uma cultura data-driven. Ele foi projetado para atrair stakeholders-chave, centralizando informações relevantes e estimulando a exploração de diversos dados. A governança  e a acessibilidade garantem relatórios e painéis confiáveis e atualizados, capacitando tomadas de decisões informadas e estratégicas.
 
 ![image](https://github.com/yuremartins/HUB-PowerBI/blob/main/Dashboard%20-%20Hub/01%20-%20Capa.png?raw=true)
 
